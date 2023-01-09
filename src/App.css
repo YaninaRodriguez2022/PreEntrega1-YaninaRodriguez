@@ -1,0 +1,17 @@
+.App-header{
+
+        background-color: #171717;
+        align-items: center;
+        justify-content: space-between;
+        display: flex;
+        padding: 0.5rem 1rem;
+        top: 0px;
+        left: 0px;
+
+}
+
+.App-header div a {
+    color: #eeeeee;
+}
+
+

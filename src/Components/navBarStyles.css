@@ -1,0 +1,31 @@
+.navBarNew {
+    display: flex;
+}
+
+.navBarNew a {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #171717;
+    text-align: right;
+}
+
+.animacionBarraLi :hover {
+    background-color: yellowgreen;
+    transition: 0.4s ease-out;
+  
+}
+
+
+
+
+#logoTamaño img {
+    width: 150px;
+    height: 82px;
+}
+.greeting p{
+
+    display: flex;
+    background-color: yellowgreen;
+    color: antiquewhite;
+}
